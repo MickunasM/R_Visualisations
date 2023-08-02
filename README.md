@@ -1,1 +1,1 @@
-# A repo for generating basic and comprehensive data visualisations
+# A repo for generating data visualisations
