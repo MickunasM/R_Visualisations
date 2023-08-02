@@ -95,7 +95,7 @@ emperors_assassinated %>%
   geom_text(
     aes(label = n, x = n - .25),
     colour = "white", size = 5, hjust = 1,
-    family="Lato"
+    family="sans"
   ) +
   theme_minimal() +
   
