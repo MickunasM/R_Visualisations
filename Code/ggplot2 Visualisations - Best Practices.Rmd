@@ -1,6 +1,8 @@
 ---
 title: "Best Practices"
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
 date: "2023-07-12"
 ---
 ```{r}
